@@ -1,0 +1,9 @@
+com\example\oci_artifact\model\User.class
+com\example\oci_artifact\service\OrderService.class
+com\example\oci_artifact\controller\OrderController.class
+com\example\oci_artifact\service\UserService.class
+com\example\oci_artifact\repository\UserRepository.class
+com\example\oci_artifact\model\Order.class
+com\example\oci_artifact\OciArtifactApplication.class
+com\example\oci_artifact\repository\OrderRepository.class
+com\example\oci_artifact\controller\UserController.class
